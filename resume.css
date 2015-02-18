@@ -9,12 +9,13 @@
 }
 
 .para {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 .sections {
   text-align: center;
   font-weight: bold;
+  padding-top: 8px;
 }
 
 
