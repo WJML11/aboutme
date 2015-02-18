@@ -8,15 +8,21 @@
   padding-top: 10px;
 }
 
-.para {
-  padding-left: 50px;
-}
-
 .sections {
   text-align: center;
   font-weight: bold;
   padding-top: 25px;
 }
+
+.para {
+  padding-left: 50px;
+}
+
+.indent {
+  padding-left: 80px;
+}
+
+
 
 
 
