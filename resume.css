@@ -1,12 +1,15 @@
-* {
-	background-color: gray;
+head {
+	background-color: white;
 	text-align: center;
 	color :#f3eeed;
-	font-family: Century Gothic;
+	font-family: Times New Roman;
 	list-style-type: none;
 }
 
+body {
+  padding-bottom: 100px;
 
+}
 
 
 
