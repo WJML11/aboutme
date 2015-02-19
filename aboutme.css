@@ -19,3 +19,12 @@ img {
 .li {
 	text-align: center;
 }
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(https://s-media-cache-ak0.pinimg.com/236x/ff/8b/1b/ff8b1b60792dcb4f18dd293cc51f9392.jpg) no-repeat;
+	}
