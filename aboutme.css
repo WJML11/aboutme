@@ -1,5 +1,5 @@
 .body {
-	
+	background-image: url(blurry_background_iv-wallpaper);
 	background-color: gray;
 	text-align: center;
 	color: white;
@@ -29,5 +29,4 @@ img {
 
 .background {
 	display: block;
-	padding-right: 200px; 
 }
