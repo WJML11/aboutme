@@ -1,5 +1,4 @@
 .body {
-	background-image: url(blurry_background_iv-wallpaper);
 	background-color: gray;
 	text-align: center;
 	color: white;
@@ -7,6 +6,9 @@
 	list-style-type: none;
 }
 
+body {
+	background-image: url(blurry_background_iv-wallpaper);
+}
 img {
 	height: 250px;
 	width:; 250px;
