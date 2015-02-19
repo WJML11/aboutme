@@ -20,11 +20,3 @@ img {
 	text-align: center;
 }
 
-.circular {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1901458_1398432457090439_1035958370_n.jpg?oh=18470aa274d818bf8367a11845592a69&oe=556A72A8&__gda__=1428646435_bc73617d296588fd9db1bb25469ec01c) no-repeat;
-	}
