@@ -4,7 +4,7 @@
 	font-color: black;
 	font-family: Times New Roman;
 	list-style-type: none;
-  margin-top: 10px;
+  margin-top: 12px;
   padding-top: 10px;
   font-size: 18px;
 }
@@ -12,7 +12,7 @@
 .sections {
   text-align: center;
   font-weight: bold;
-  padding-top: 25px;
+  padding-top: 50px;
 }
 
 .para {
