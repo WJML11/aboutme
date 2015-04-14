@@ -1,43 +1,39 @@
-
+body {
+  background-color: #7F7F7F;
+  color: white;
+}
 .bg {
   background-image: url(lion);
   background-size: cover;
   padding: 20px;
   height: 200px;
 }
-
 .name {
   text-align: center;
-  font-family: Microsoft JhengHei Light;
+  font-family: Microsoft Himalaya;
 }
-
 .desc {
   text-align: center;
-
 }
-
 .baa {
  
 }
-
 .baadesc {
   text-align: center;
 }
-
 .ckdesc {
   text-align: center;
 }
-
 .heading {
-  font-family: Microsoft JhengHei Light; 
+  font-family: Microsoft Himalaya; 
   text-align: center;
-}
-
+ }
 .headingdesc {
   text-align: center;
 }
-
-
+.bottom {
+  padding-top: 50px;
+}
 
 
 
