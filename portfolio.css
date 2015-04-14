@@ -1,0 +1,78 @@
+
+.bg {
+  background-image: url(lion);
+  background-size: cover;
+  padding: 20px;
+  height: 200px;
+}
+
+.name {
+  text-align: center;
+  font-family: Microsoft JhengHei Light;
+}
+
+.desc {
+  text-align: center;
+
+}
+
+.baa {
+ 
+}
+
+.baadesc {
+  text-align: center;
+}
+
+.ckdesc {
+  text-align: center;
+}
+
+.heading {
+  font-family: Microsoft JhengHei Light; 
+  text-align: center;
+}
+
+.headingdesc {
+  text-align: center;
+}
+
+
+
+
+
+
+/* Meyer Reset */
+
+
+/* Meyer Reset End */
+
+/* Normalize */
+
+
+
+
+/* Normalize End */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
