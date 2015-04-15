@@ -6,6 +6,7 @@ body {
 .heading {
   margin: auto;
   text-align: center;
+  width: 40%;
 }
 
 .portfolio {
@@ -16,4 +17,5 @@ body {
 .footer {
   margin: auto;
   text-align: center;
+  width: 40%;
 }
