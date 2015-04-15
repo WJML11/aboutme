@@ -1,74 +1,19 @@
 body {
   background-color: #7F7F7F;
-  color: white;
+  font-family: Open Sans;
 }
-.bg {
-  background-image: url(lion);
-  background-size: cover;
-  padding: 20px;
-  height: 200px;
-}
-.name {
-  text-align: center;
-  font-family: Microsoft Himalaya;
-}
-.desc {
-  text-align: center;
-}
-.baa {
- 
-}
-.baadesc {
-  text-align: center;
-}
-.ckdesc {
-  text-align: center;
-}
+
 .heading {
-  font-family: Microsoft Himalaya; 
-  text-align: center;
- }
-.headingdesc {
+  margin: auto;
   text-align: center;
 }
-.bottom {
-  padding-top: 50px;
+
+.portfolio {
+  margin: auto;
+  width: 40%;
 }
 
-
-
-
-/* Meyer Reset */
-
-
-/* Meyer Reset End */
-
-/* Normalize */
-
-
-
-
-/* Normalize End */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer {
+  margin: auto;
+  text-align: center;
+}
