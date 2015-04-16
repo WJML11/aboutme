@@ -1,21 +1,14 @@
 body {
-  background-color: #7F7F7F;
-  font-family: Open Sans;
-}
-
-.heading {
-  margin: auto;
+  background-color: #7F7F71;
+  font-family: Lora;
   text-align: center;
-  width: 40%;
+  font-size: 1.3em;
 }
 
-.portfolio {
-  margin: auto;
-  width: 40%;
-}
-
-.footer {
-  margin: auto;
-  text-align: center;
-  width: 40%;
+.bio {
+  width: 55%;
+  padding-top: 15px;
+  padding-left: 410px;
+  /* ^Why can't you just be normal and center?? */
+  font-size: 1.5em;
 }
