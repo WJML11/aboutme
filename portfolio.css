@@ -1,22 +1,36 @@
 body {
-  background-color: #7F7F71;
+  background-color:#7F7F71;
   font-family: Lora;
+}
+/*
+.name {
   text-align: center;
-  font-size: 1.3em;
+  font-family: Microsoft JhengHei Light;
+}
+
+.desc {
+  text-align: center;
+
+}
+
+.baa {
+ 
+}
+
+.baadesc {
+  text-align: center;
+}
+
+.ckdesc {
+  text-align: center;
 }
 
 .heading {
-  width: 55%;
-  padding-top: 15px;
-  padding-left: 410px;
-  /* ^Why can't you just be normal and center?? */
-  font-size: 1.5em;
+  font-family: Microsoft JhengHei Light; 
+  text-align: center;
 }
 
-.bio {
-  width: 55%;
-  padding-top: 15px;
-  padding-left: 410px;
-  /* ^Why can't you just be normal and center?? */
-  font-size: 1.5em;
+.headingdesc {
+  text-align: center;
 }
+*/
