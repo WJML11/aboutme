@@ -5,6 +5,14 @@ body {
   font-size: 1.3em;
 }
 
+.heading {
+    width: 55%;
+  padding-top: 15px;
+  padding-left: 410px;
+  /* ^Why can't you just be normal and center?? */
+  font-size: 1.5em;
+}
+
 .bio {
   width: 55%;
   padding-top: 15px;
