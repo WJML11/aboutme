@@ -28,17 +28,26 @@
 	content: "\e902";
 }
 
+ul {
+	font-size: 1.5em;
+	color: #F6FFE7;
+
+}
+body {
+	background-image: url(lion.jpg);
+	background-size: cover;
+	background-color: #F6FFE7;
+	text-align: center;
+
+}
+
 .body {
 	background-color: gray;
-	text-align: center;
 	color: white;
 	font-family: Century Gothic;
 	list-style-type: none;
 }
 
-body {
-	background-image: url(blurry_background_iv-wallpaper);
-	background-color: #F6FFE7;
 }
 img {
 	height: 250px;
